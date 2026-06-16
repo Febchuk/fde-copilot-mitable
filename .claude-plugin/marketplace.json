@@ -1,0 +1,17 @@
+{
+  "name": "mitable",
+  "owner": {
+    "name": "Febchuk"
+  },
+  "plugins": [
+    {
+      "name": "mitable",
+      "source": "./",
+      "description": "Customer, product, and operating context for Forward Deployed Engineers — automatically maintained, automatically loaded.",
+      "author": { "name": "Febchuk" },
+      "repository": "https://github.com/Febchuk/fde-copilot-mitable",
+      "license": "Apache-2.0",
+      "keywords": ["fde", "customer-context", "claude-code", "plugin"]
+    }
+  ]
+}
