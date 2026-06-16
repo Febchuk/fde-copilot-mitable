@@ -6,5 +6,8 @@
     "name": "Mitable"
   },
   "license": "Apache-2.0",
-  "keywords": ["fde", "customer-context", "claude-code", "plugin"]
+  "keywords": ["fde", "customer-context", "claude-code", "plugin"],
+  "commands": [
+    "./commands/mitable.md"
+  ]
 }
